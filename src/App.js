@@ -16,7 +16,7 @@ const App = () => {
        <h1 id='cent'>Pixabay</h1>
        <div className='exp'>
         <h3>Explore</h3>
-        <i class="fa-solid fa-bell">notf</i>
+        <i class="fa-solid fa-bell"></i>
         <button id='btn'>Upload</button>
         </div>
         </section>
