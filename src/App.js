@@ -1,6 +1,6 @@
 
 import './App.css'
-import { useEffect,useState  } from 'react'
+import { useEffect,useState ,search } from 'react'
 const App = () => {
   const[data ,setData]=useState([])
   const[search, setSearch]=useState("")
